@@ -12,3 +12,4 @@ hello atguigu! hello Git!
 hello atguigu! hello Git!
 hello atguigu! hello Git!
 hello atguigu! hello Git!22222 master test`
+hello atguigu! hello Git!22222 hot-fix
